@@ -1,7 +1,7 @@
 # RAM-PUMPER2000
 Occupy your computer's memory and so tests n' stuff.
 THE RAM-PUMPER2000! 
-I wanted to see how Windows OS manages memory under heavy memory allocation.
+I wanted to see how Windows OS manages memory under heavy memory allocation, and wanted to see the virtual alloc shown in Casey Muratori's HMH series in action on my device.
 
 Windows only.
 I got makefile working with the following-
